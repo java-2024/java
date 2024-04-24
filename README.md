@@ -1,5 +1,4 @@
 # java
-[java programming](https://velog.io/@ameri-kano/stack)
 
 ## 자료구조
 1. 스택(stack)
