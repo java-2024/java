@@ -14,4 +14,7 @@ public class Car {
     public void injectFuel(int money){
         System.out.println("연료를 주입 받다.");
     }
+    public void openDoor(){
+        System.out.println("자동차 문을 엽니다.");
+    }
 }
