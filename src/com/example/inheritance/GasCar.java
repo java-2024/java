@@ -3,7 +3,7 @@ package com.example.inheritance;
 public class GasCar extends Car {
 
     public GasCar() {
-        System.out.println("가스차 default 생성자 호출");
+        System.out.println("가스차 default 생성자 호출.");
     }
 
     @Override

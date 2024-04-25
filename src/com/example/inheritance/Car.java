@@ -5,7 +5,7 @@ public class Car {
     private String color;
 
     public Car() {
-        System.out.println("Car 클래스 default생성자 호출");
+        System.out.println("Car클래스 default생성자 호출");
     }
 
     public void go() {

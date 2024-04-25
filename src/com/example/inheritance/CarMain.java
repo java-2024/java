@@ -6,7 +6,7 @@ public class CarMain {
         GasCar gc = new GasCar();
 
         ec.injectFuel(10000);
-        gc.injectFuel(20000);
+        gc.injectFuel(30000);
 
         ec.go();
         gc.go();
